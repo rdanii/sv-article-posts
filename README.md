@@ -50,7 +50,7 @@ $ go run .
 
 Navigate to [http://localhost:3000](http://localhost:3000). The app will automatically reload if you change any of the source files.
 
-Server running on http://localhost:5000
+Server running on http://localhost:8000
 
 Set your database equal to database in yours localhost
 
